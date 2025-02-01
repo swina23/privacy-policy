@@ -1,6 +1,8 @@
-Privacy Policy for HSpeakRec
+## HSpeakRec Privacy Policy
 
-Last updated: February 1, 2025
+### Last Updated: February 1, 2025
+
+#### 1. Data Collection
 
 HSpeakRec uses Google AdMob to improve app functionality and display advertisements. As a result, the following information may be collected:
 
@@ -10,30 +12,51 @@ HSpeakRec uses Google AdMob to improve app functionality and display advertiseme
 - Advertising data
 - Diagnostic information (crash data, performance data)
 
-This information is used for providing personalized advertisements, improving the app, and for analytical purposes.
+#### 2. Purpose of Data Collection
 
-Data Sharing:
-Collected data may be shared with Google and its advertising partners through AdMob.
+This information is used for:
+- Providing personalized advertisements
+- Improving app performance
+- Analytical purposes
 
-User Choices:
-Users can reset their advertising ID or opt out of personalized ads through their device settings.
+#### 3. Data Sharing
 
-Children's Privacy:
+Collected data may be shared with:
+- Google
+- AdMob advertising partners
+
+#### 4. User Choices
+
+Users can:
+- Reset advertising ID
+- Opt out of personalized ads through device settings
+
+#### 5. Children's Privacy
+
 We do not knowingly collect personal information from children under 13.
 
-Changes to This Privacy Policy:
-This policy may be updated from time to time. Any changes will be posted on this page.
+#### 6. Policy Changes
 
-Contact Us:
-If you have any questions about this Privacy Policy, please contact us by visiting this page on our website: https://x.com/hspeakrec
+This policy may be updated periodically. Changes will be posted on this page.
+
+#### 7. Contact Information
+
+Questions about this policy: https://x.com/hspeakrec
 
 
 
-プライバシーポリシー for HSpeakRec
 
-最終更新日：2025年2月1日
+-------------------------------------------------------------------------------------------
 
-HSpeakRecは、アプリの機能向上と広告表示のために、Google AdMobを使用しています。これにより、以下の情報が収集される場合があります：
+
+
+## HSpeakRecプライバシーポリシー
+
+### 最終更新日：2025年2月1日
+
+#### 1. データ収集
+
+HSpeakRecは、アプリの機能向上と広告表示のためにGoogle AdMobを使用しています。以下の情報が収集される可能性があります：
 
 - おおよその位置情報
 - デバイスID
@@ -41,20 +64,34 @@ HSpeakRecは、アプリの機能向上と広告表示のために、Google AdMo
 - 広告データ
 - 診断情報（クラッシュデータ、パフォーマンスデータ）
 
-これらの情報は、パーソナライズされた広告の提供、アプリの改善、分析目的で使用されます。
+#### 2. データ収集の目的
 
-データの共有：
-収集されたデータは、AdMobを通じてGoogleおよびその広告パートナーと共有される場合があります。
+これらの情報は以下のために使用されます：
+- パーソナライズされた広告の提供
+- アプリのパフォーマンス改善
+- 分析目的
 
-ユーザーの選択：
-ユーザーは、デバイスの設定から広告IDをリセットしたり、パーソナライズ広告をオプトアウトしたりすることができます。
+#### 3. データ共有
 
-子どものプライバシー：
-13歳未満の子どもに関する個人情報を意図的に収集することはありません。
+収集されたデータは以下と共有される可能性があります：
+- Google
+- AdMobの広告パートナー
 
-このプライバシーポリシーの変更：
-このポリシーは随時更新される可能性があります。変更があった場合は、このページで通知します。
+#### 4. ユーザーの選択
 
-お問い合わせ：
-このプライバシーポリシーに関するご質問は、以下のウェブサイトからお問い合わせください：
-https://x.com/hspeakrec
+ユーザーは以下が可能です：
+- 広告IDのリセット
+- デバイス設定によるパーソナライズ広告のオプトアウト
+
+#### 5. 子どものプライバシー
+
+13歳未満の子どもからの個人情報を意図的に収集することはありません。
+
+#### 6. ポリシーの変更
+
+このポリシーは定期的に更新される可能性があります。変更は本ページに掲載されます。
+
+#### 7. 連絡先情報
+
+ポリシーに関する質問: https://x.com/hspeakrec
+
